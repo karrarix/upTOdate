@@ -1,0 +1,1 @@
+this is a update app that will install chocolatey if its not install and then uses winget and choco to upgrade all your apps but the update only work on ligit apps that are downloaded from pakage manager like winget 
